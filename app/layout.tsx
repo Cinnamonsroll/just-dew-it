@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
@@ -12,16 +12,17 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+
+ 
+export const viewport: Viewport = {
+  themeColor: "#97d700",
+}
 export const metadata: Metadata = {
   title: "Just Dew It - Mountain Dew Flavor Tracker",
   description: "Track every Mountain Dew flavor you've tried",
   icons: {
     icon: "/mtn-dew.png",
   },
-  themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#97d700" },
-    { media: "(prefers-color-scheme: dark)", color: "#97d700" },
-  ],
 };
 
 
