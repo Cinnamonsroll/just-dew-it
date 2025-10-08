@@ -1,0 +1,717 @@
+[
+  {
+    "name": "Mountain Dew",
+    "countries": ["United States", "Canada", "United Kingdom", "Australia"],
+    "discontinued": false
+  },
+  {
+    "name": "Diet Mountain Dew",
+    "countries": ["United States", "Canada"],
+    "discontinued": false
+  },
+  {
+    "name": "Diet Caffeine-Free Mountain Dew",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Code Red",
+    "countries": ["United States", "Canada", "United Kingdom"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew LiveWire",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Baja Blast",
+    "countries": ["United States", "Canada"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Voltage",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Real Sugar",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Goji Citrus Strawberry",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Voo-Dew",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Baja Cabo Citrus",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Berry Monsoon",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Sweet Lightning",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Maui Burst",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Frost Bite",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Dragon Fruit",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Atomic Blue",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Southern Shock",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Dewgarita",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Vibe",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Thrashed Apple",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Uproar",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Dark Berry Bash",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Legend",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Purple Thunder",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Overdrive",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Infinite Swirl",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Pitch Black",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Baja Midnight",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Mango Rush",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Kickstart Orange Citrus",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Kickstart Fruit Punch",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Kickstart Black Cherry",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Kickstart Limeade",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Kickstart Pineapple Orange Mango",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Kickstart Blood Orange",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Kickstart Hydrating Watermelon",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Kickstart Blueberry Pomegranate",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Kickstart Midnight Grape",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Kickstart Raspberry Citrus",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Kickstart Mango Lime",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Kickstart Original",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Kickstart Ultra",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Kickstart Strawberry Start-Up",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Charged Cherry Burst",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Charged Berry Blast",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Charged Original Dew",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Charged Tropical Strike",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Charged Orange Storm",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Zero Charged Watermelon Shock",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Zero Charged Raspberry Lemonade",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Courageous Sherbet",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Championship Citrus Cherry",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Pomegranate Blue Burst",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Strawberry Melon Spark",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Berry Blitz",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Tropical Sunrise",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Peach Mango Dawn",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Orange Breeze",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Cherry Lime Lift",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Baja Blast",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Code Red",
+    "countries": ["United States", "Canada", "United Kingdom"],
+    "discontinued": false
+  },
+  {
+    "name": "Pitch Black",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Major Melon",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Hard Mountain Dew",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Hard Mountain Dew Black Cherry",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Hard Mountain Dew Watermelon",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Hard Mountain Dew Baja Blast",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Hard Mountain Dew LiveWire",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Hard Mountain Dew Baja Blast Pineapple",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Hard Mountain Dew Baja Blast Punch",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Hard Mountain Dew Baja Blast Mango",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Blue Shock Freeze",
+    "countries": ["United Kingdom"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Electric Charge",
+    "countries": ["United Kingdom"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Game Fuel Berry Lime",
+    "countries": ["United Kingdom"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew X-Treme",
+    "countries": ["Mexico"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Energy/Citrus Blast",
+    "countries": ["Australia", "New Zealand"],
+    "discontinued": false
+  },
+  {
+    "name": "Adrenaline Mountain Dew",
+    "countries": ["Australia"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Energised",
+    "countries": ["Australia"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Passionfruit Frenzy",
+    "countries": ["Australia"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Supernova (Finland/Denmark)",
+    "countries": ["Finland", "Denmark"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Electric Citrus",
+    "countries": ["Germany"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Energy Game Fuel",
+    "countries": ["Germany"],
+    "discontinued": false
+  },
+  {
+    "name": "AMP Energy — Powered by Mountain Dew (UK)",
+    "countries": ["United Kingdom"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Game Fuel (India)",
+    "countries": ["India"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Blue Shock",
+    "countries": ["United Kingdom"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Major Melon",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Summer Freeze",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Caffeine-Free Mountain Dew",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Red",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Sport",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Pitch Black II",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Darth Dew",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew MDX",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Game Fuel Citrus Cherry",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Revolution",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Supernova",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Game Fuel Alliance Blue",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Diet Mountain Dew Ultra Violet",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew White Out",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Distortion",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Typhoon",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Game Fuel Tropical",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Dark Berry",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Johnson City Gold",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Cold Fusion",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Game Fuel Electrifying Berry",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Sangrita Blast",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Game Fuel Lemonade",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Dewitos",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Dewshine",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Spiked Lemonade",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Spiked Raspberry Lemonade",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew DEW-S-A",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Game Fuel Arctic Burst",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Game Fuel Tropical Smash",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Holiday Brew",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Black Label",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew White Label",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Green Label",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew ICE",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew ICE Cherry",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Merry Mash-Up",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Liberty Chill",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Baja Punch",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Baja Flash",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Cake-Smash",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Flamin' Hot",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Gingerbread Snap'd",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Baja Gold",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Baja Mango Gem",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Baja Deep Dive",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Fruit Quake",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Baja Caribbean Splash",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Baja Passionfruit Punch",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew HoneyDEW",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Game Fuel Mystic Punch",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Baja Laguna Lemonade",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Baja Point Break Punch",
+    "countries": ["United States"],
+    "discontinued": false
+  },
+  {
+    "name": "Mountain Dew Star Spangled Splash",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Freedom Fusion",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Game Fuel Citrus Blackberry",
+    "countries": ["United States"],
+    "discontinued": true
+  },
+  {
+    "name": "Mountain Dew Spark",
+    "countries": ["United States"],
+    "discontinued": false
+  }
+]
