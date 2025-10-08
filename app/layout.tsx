@@ -18,6 +18,7 @@ export const metadata: Metadata = {
   icons: {
     icon: "/mtn-dew.png",
   },
+  themeColor: "#97d700",
 }
 
 export default function RootLayout({
